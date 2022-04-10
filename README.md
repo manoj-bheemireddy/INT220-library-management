@@ -1,3 +1,8 @@
 # INT220-library-management
 
-Technology used 
+Technology used :
+
+Html
+CSS
+Php
+
